@@ -28,14 +28,14 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Contact us"
-    identifier = "faq"
-    url  = "/faq/"
+    name = "Contact Us"
+    identifier = "contact"
+    url  = "/contact/"
     weight = 3
 
 [[menu.main]]
     name = "About the team"
-    url  = "/contact/"
+    url  = "/faq/"
     weight = 4
 
 # Top bar social links menu
