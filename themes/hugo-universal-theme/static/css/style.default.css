@@ -1175,7 +1175,7 @@ font-weight: normal;
 }
 
 .sclimg {
-  min-height:480px;
+  min-height:1000px;
   width:6000px;
   background: url('../img/background.jpg') center center repeat;
   animation: slide 60s linear infinite;
