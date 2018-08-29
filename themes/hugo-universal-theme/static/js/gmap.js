@@ -1,5 +1,4 @@
-<div id="map"></div>
-<script>
+<script type='script'>
 
   var map, heatmap;
 
@@ -12,8 +11,7 @@
 
     heatmap = new google.maps.visualization.HeatmapLayer({
       data: getPoints(),
-      map: map,
-      radius: 20
+      map: map
     });
   }
 
