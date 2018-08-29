@@ -328,13 +328,24 @@ ul.list-style-none {
 }
 
 .home-btn {
-
     background: #006dcc;
     padding: 10px 50px !important;
     text-align: center;
     width: fit-content;
     border-radius: 5px;
     margin: 0 auto;
+}
+
+.page-btn {
+    background: #006dcc;
+    padding: 10px 50px !important;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto;
+    font-size:18px;
+    width:fit-content;
+    color:white;
+    background-image: linear-gradient(to bottom, #0088cc, #0044cc);
 }
 .navbar.navbar-light ul.nav > li.active > a {
   border-top: solid 5px #20616d;
@@ -523,7 +534,7 @@ body.boxed .navbar-affixed-top.affix {
 /* buttons  */
 .btn {
   font-weight: 700;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   padding: 6px 12px;
@@ -1253,7 +1264,7 @@ font-weight: normal;
   font-size: 14px;
   padding: 0;
   letter-spacing: 0.10em;
-  font-weight:100;
+  font-weight:300;
 }
 @media (max-width: 991px) {
   .home-carousel ul,
@@ -2009,9 +2020,10 @@ font-weight: normal;
   font-size: 13px;
   line-height: 15px;
 }
-#map {
+#map, #mapp {
   height: 400px;
-  margin-bottom: 50px;
+  width:85%;
+  margin:50px auto;
 }
 
 #map.with-border {
@@ -3211,13 +3223,13 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 /* scaffolding */
 body {
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
   line-height: 1.42857143;
   color: #555555;
 }
 a {
-  color: #38a7bb;
+  color: #005e8e;
   text-decoration: none;
 }
 a:hover,
