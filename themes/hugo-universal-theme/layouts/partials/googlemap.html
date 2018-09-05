@@ -1,4 +1,3 @@
-<div id="map"></div>
 
 <div id="mapp"></div>
 
@@ -33,17 +32,7 @@
   var map, heatmap;
 
   function initMap() {
-    map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 4,
-      center: {lat: 37.551458, lng: -97.664113},
-      mapTypeId: 'roadmap'
-    });
 
-    heatmap = new google.maps.visualization.HeatmapLayer({
-      data: getPoints(),
-      map: map,
-      radius: 20
-    });
 
 
     mapp = new google.maps.Map(document.getElementById('mapp'), {
@@ -55,11 +44,11 @@
 
     for (var city in citymap) {
       var cityCircle = new google.maps.Circle({
-        strokeColor: '#FF0000',
-        strokeOpacity: 0.8,
-        strokeWeight: 2,
-        fillColor: '#FF0000',
-        fillOpacity: 0.35,
+        strokeColor: '#7A57BF',
+        strokeOpacity: 0.3,
+        strokeWeight: 14,
+        fillColor: '#7A57BF',
+        fillOpacity: 1,
         map: mapp,
         center: citymap[city].center,
         radius: Math.sqrt(citymap[city].population) * 1000
