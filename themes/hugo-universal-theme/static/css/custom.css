@@ -1,10 +1,15 @@
 /* your styles go here */
 
 .box-image-text .image {
-  min-height: 200px;
-  max-height: 200px;
+	min-height: 200px;
+	max-height: 200px;
 }
 
 .box-simple {
-  height: fit-content;
+	height: fit-content;
+}
+
+.active-link {
+	color: #777;
+	background-color: #38a7bb;
 }
