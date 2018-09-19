@@ -70,7 +70,6 @@ button i.fa {
 }
 .text-uppercase {
   text-transform: uppercase;
-  letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {
   .text-center-sm {
@@ -105,7 +104,6 @@ div.section {
   padding-bottom: 10px;
   vertical-align: middle;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
 }
 .heading h1 i.fa,
 .heading h2 i.fa,
@@ -181,7 +179,6 @@ ul.list-style-none {
   font-size: 18px;
   text-transform: uppercase;
   margin-bottom: 20px;
-  letter-spacing: 0.08em;
 }
 .pages-listing .item h3 a {
   color: #555555;
@@ -286,7 +283,6 @@ ul.list-style-none {
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 700;
-  letter-spacing: 0.10em;
 }
 @media (max-width: 767px) {
   #top .login {
@@ -306,7 +302,6 @@ ul.list-style-none {
 }
 .navbar ul.nav > li > a {
   font-weight: bold;
-  letter-spacing: 0.08em;
   border-top: solid 5px transparent;
 }
 .navbar ul.nav > li > a:hover {
@@ -371,7 +366,6 @@ ul.list-style-none {
   list-style-type: none;
   border-bottom: solid 1px #eeeeee;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
   padding: 4px 0;
 }
 .navbar ul.dropdown-menu li a {
@@ -404,7 +398,6 @@ ul.list-style-none {
   padding-bottom: 10px;
   margin-top: 5px;
   border-bottom: dotted 1px #555555;
-  letter-spacing: 0.08em;
 }
 @media (max-width: 767px) {
   .navbar .yamm-content h3 {
@@ -415,7 +408,6 @@ ul.list-style-none {
   text-transform: uppercase;
   padding-bottom: 10px;
   border-bottom: dotted 1px #555555;
-  letter-spacing: 0.08em;
 }
 .navbar .yamm-content ul {
   margin: 0;
@@ -536,7 +528,6 @@ body.boxed .navbar-affixed-top.affix {
   font-weight: 700;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
   padding: 6px 12px;
   font-size: 13px;
   line-height: 1.42857143;
@@ -759,7 +750,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-size: cover;
 }
 #intro .item {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   height: 100%;
 }
 #intro .item h1 {
@@ -767,7 +758,7 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 50px;
   color: #fff;
   margin-bottom: 40px;
-  letter-spacing: 0.08em;
+
 }
 @media (max-width: 991px) {
   #intro .item h1 {
@@ -840,7 +831,6 @@ fieldset[disabled] .btn-template-primary.active {
 .jumbotron h3 {
   color: #ffffff;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
 }
 .jumbotron p {
   margin-bottom: 20px;
@@ -880,7 +870,6 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0;
   border-bottom: solid 1px #eeeeee;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
 }
 .panel.sidebar-menu h3 {
   padding: 5px 0;
@@ -898,7 +887,6 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 10px;
   background: none;
   padding: 0;
-  letter-spacing: 0.08em;
   border-bottom: none;
 }
 .panel.sidebar-menu .panel-heading h1,
@@ -954,10 +942,9 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 20px;
   text-transform: uppercase;
   font-weight: 700;
-  letter-spacing: 0.08em;
 }
 .panel.sidebar-menu ul.nav.category-menu li a {
-  font-family:  Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .panel.sidebar-menu ul.nav ul {
   list-style: none;
@@ -997,7 +984,6 @@ fieldset[disabled] .btn-template-primary.active {
   color: #38a7bb;
   margin: 5px 5px 5px 0;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
   font-weight: 700;
   font-size: 12px;
 }
@@ -1079,7 +1065,6 @@ fieldset[disabled] .btn-template-primary.active {
   top: 50px;
   padding-left: 51px;
   font-weight: 700;
-  letter-spacing: 0.08em;
 }
 .ribbon .ribbon-background {
   position: absolute;
@@ -1093,7 +1078,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 30px 10px 10px -71px;
   color: #fff;
   background-color: #38a7bb;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .ribbon .theribbon:before,
 .ribbon .theribbon:after {
@@ -1255,9 +1240,8 @@ font-weight: normal;
   color: #fff;
 }
 .home-carousel h1 {
-  font-weight: 200;
-  font-size: 45px;
-  letter-spacing: 0.08em;
+  font-weight: 300;
+  font-size: 2.8em;
 }
 @media (max-width: 991px) {
   .home-carousel h1 {
@@ -1268,14 +1252,11 @@ font-weight: normal;
   font-weight: 700;
   text-transform: uppercase;
   font-size: 40px;
-  letter-spacing: 0.08em;
 }
 .home-carousel ul,
 .home-carousel p {
   font-size: 14px;
   padding: 0;
-  letter-spacing: 0.10em;
-  font-weight:300;
 }
 @media (max-width: 991px) {
   .home-carousel ul,
@@ -1374,7 +1355,6 @@ font-weight: normal;
 .testimonials .item .testimonial .name-picture h5 {
   font-size: 14px;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
 }
 .testimonials .item .testimonial .name-picture p {
   color: #999999;
@@ -1395,7 +1375,6 @@ font-weight: normal;
   font-size: 18px;
   text-transform: uppercase;
   margin-bottom: 5px;
-  letter-spacing: 0.08em;
 }
 .team-member h3 a {
   color: #555555;
@@ -1404,7 +1383,6 @@ font-weight: normal;
   color: #999999;
   font-size: 12px;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
 }
 .team-member .social {
   margin-bottom: 20px;
@@ -1509,7 +1487,6 @@ font-weight: normal;
   line-height: 1.5;
   color: #555555;
   font-weight: 800;
-  letter-spacing: 0.08em;
   color:#ea6d18;
 }
 
@@ -1601,7 +1578,6 @@ font-weight: normal;
   color: #fff;
   text-transform: uppercase;
   font-size: 18px;
-  letter-spacing: 0.08em;
 }
 .box-image .name h3 a {
   color: #fff;
@@ -1679,7 +1655,6 @@ font-weight: normal;
   color: #fff;
   text-transform: uppercase;
   font-size: 18px;
-  letter-spacing: 0.08em;
 }
 .box-image-text .top .name h3 a {
   color: #fff;
@@ -1706,7 +1681,6 @@ font-weight: normal;
   line-height: 1.5;
   color: #555555;
   font-weight: 800;
-  letter-spacing: 0.08em;
 }
 .box-image-text .content p {
   color: #999999;
@@ -1747,7 +1721,6 @@ font-weight: normal;
   padding: 20px;
   border-bottom: solid 1px #eeeeee;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
 }
 .box .box-header:before,
 .box .box-header:after {
@@ -1808,7 +1781,6 @@ font-weight: normal;
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 700;
-  letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {
   #heading-breadcrumbs h1 {
@@ -1890,7 +1862,7 @@ font-weight: normal;
   margin-bottom: 0;
   text-align: left;
   font-size: 14px;
-  letter-spacing: 0.08em;
+  
 }
 .portfolio-project .project-more p {
   color: #999999;
@@ -1904,7 +1876,6 @@ font-weight: normal;
 .portfolio-showcase h3 a {
   text-transform: uppercase;
   line-height: 1.5;
-  letter-spacing: 0.08em;
 }
 .portfolio-showcase p.lead {
   color: #555555;
@@ -1941,7 +1912,6 @@ font-weight: normal;
 .showcase .item h4 {
   color: #555555;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
   line-height: 1.5;
   font-size: 16px;
 }
@@ -1970,7 +1940,6 @@ font-weight: normal;
   font-weight: bold;
   line-height: 57px;
   margin: 0;
-  letter-spacing: 0.08em;
 }
 .packages .package .package-header.light-gray {
   background: #eeeeee;
@@ -2025,7 +1994,6 @@ font-weight: normal;
   font-weight: bold;
   line-height: 29px;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
 }
 .packages .best-value .package .package-header .meta-text {
   font-size: 13px;
@@ -2051,7 +2019,6 @@ font-weight: normal;
 #blog-listing-big .post h4,
 #blog-homepage .post h4 {
   text-transform: uppercase;
-  letter-spacing: 0.08em;
 }
 #blog-listing-big .post h2 a,
 #blog-homepage .post h2 a,
@@ -2070,7 +2037,6 @@ font-weight: normal;
   color: #999999;
   text-transform: uppercase;
   font-weight: 300;
-  letter-spacing: 0.08em;
 }
 #blog-listing-big .post .author-category a,
 #blog-homepage .post .author-category a {
@@ -2127,7 +2093,6 @@ font-weight: normal;
   text-transform: uppercase;
   margin: 0 0 10px;
   font-size: 24px;
-  letter-spacing: 0.08em;
 }
 #blog-listing-medium .post h2 a {
   color: #555555;
@@ -2141,7 +2106,6 @@ font-weight: normal;
   text-transform: uppercase;
   font-weight: 300;
   font-size: 12px;
-  letter-spacing: 0.08em;
 }
 #blog-listing-medium .post .author-category a {
   font-weight: 500;
@@ -2216,7 +2180,6 @@ font-weight: normal;
 .box-image-text.blog .author-category {
   color: #999999;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
   font-weight: 300;
   font-size: 12px;
 }
@@ -2266,7 +2229,7 @@ font-weight: normal;
   font-size: 12px;
 }
 #blog-post .comment .reply {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 #blog-post .comment.last {
   margin-bottom: 0;
@@ -2337,7 +2300,6 @@ font-weight: normal;
   font-weight: 700;
   height: 39.6px;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
 }
 .product .text h3 a {
   color: #555555;
@@ -2404,7 +2366,6 @@ font-weight: normal;
 }
 #productMain .sizes h3 {
   font-weight: 700;
-  letter-spacing: 0.08em;
   text-transform: uppercase;
   margin-bottom: 40px;
 }
@@ -2418,7 +2379,7 @@ font-weight: normal;
   color: #555555;
   text-align: center;
   text-decoration: none;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 #productMain .sizes a.active,
 #productMain .sizes a:hover {
@@ -2537,7 +2498,6 @@ font-weight: normal;
 .shipping-method h4,
 .payment-method h4 {
   text-transform: uppercase;
-  letter-spacing: 0.08em;
 }
 #customer-orders table tr th,
 #customer-orders table tr td {
@@ -2572,7 +2532,6 @@ font-weight: normal;
 #get-it h6 {
   color: #fff;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
   margin: 0 0 20px;
 }
 #get-it p {
@@ -2595,7 +2554,6 @@ font-weight: normal;
   font-size: 14px;
   font-weight: 800;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
 }
 #footer ul {
   padding-left: 0;
@@ -2652,7 +2610,6 @@ font-weight: normal;
 #footer .blog-entries .item .name h5 {
   margin: 0;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
   font-size: 12px;
 }
 #footer .blog-entries .item .name h5 a {
@@ -2724,10 +2681,9 @@ font-weight: normal;
 /* Original Boostrap template overwrite */
 /* breadcrumbs */
 .breadcrumb {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   background-color: none;
-  letter-spacing: 0.08em;
 }
 /* nav */
 .nav > li > a {
@@ -3312,10 +3268,9 @@ hr {
 }
 /* labels */
 .label {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
 }
 /* forms.less */
 label {
@@ -3341,8 +3296,7 @@ label {
   border-top: solid 1px #eeeeee;
   padding-top: 20px;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .pager li {
   display: inline;
@@ -3370,7 +3324,7 @@ label {
 /* pagination */
 .pagination {
   margin: 20px 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   border-radius: 0;
 }
 .pagination > li > a,
@@ -3445,7 +3399,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 900;
   line-height: 1.1;
   color: #333333;
@@ -3536,7 +3490,6 @@ address {
   border-top-right-radius: 0;
   border-top-left-radius: 0;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
   padding: 15px 15px;
 }
 .progress {

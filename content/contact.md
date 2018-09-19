@@ -3,7 +3,7 @@ title = "Contact"
 id = "contact"
 +++
 
-# Contact Us
+
 
 ## Schools
 If you are a school and interested in participating, please submit your information here.
