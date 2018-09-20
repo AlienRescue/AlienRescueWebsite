@@ -35,7 +35,7 @@ paginate = 10
 
 [[menu.main]]
     name = "About the team"
-    url  = "/faq/"
+    url  = "/about/"
     weight = 4
 
 # Top bar social links menu

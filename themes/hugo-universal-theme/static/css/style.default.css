@@ -1155,6 +1155,8 @@ fieldset[disabled] .btn-template-primary.active {
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
   overflow: hidden;
+  min-height:350px;
+    
 
 }
 
@@ -1210,7 +1212,6 @@ font-weight: normal;
   filter: alpha(opacity=90);
 }
 .home-carousel .owl-carousel {
-  padding-top: 60px;
   padding-bottom: 20px;
 }
 .home-carousel .owl-theme .owl-controls .owl-page span {
@@ -1292,6 +1293,12 @@ font-weight: normal;
   max-width: auto;
   filter: none;
   -webkit-filter: none;
+}
+
+.hero-img {
+    margin-top:60px;
+    width:80%;
+    
 }
 .testimonials {
   padding: 0;
@@ -1488,6 +1495,8 @@ font-weight: normal;
   color: #555555;
   font-weight: 800;
   color:#ea6d18;
+  margin-top:10px;
+  margin-bottom: 0px;
 }
 
 .box-simple h3 span {
@@ -2541,6 +2550,8 @@ font-weight: normal;
   background: #555555;
   padding: 50px 0;
   color: #999999;
+    
+    
 }
 #footer h1,
 #footer h2,
@@ -3196,7 +3207,7 @@ body {
   color: #555555;
 }
 a {
-  color: #005e8e;
+  color: #006dcc;
   text-decoration: none;
 }
 a:hover,
@@ -3413,8 +3424,16 @@ h3,
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+
+.h4, .h5, .h6, h4, h5, h6 {
+    margin-top: 8px;
+    margin-bottom: 3px;
+}
+
+
 p {
-  margin: 0 0 10px;
+  margin: 0 0 16px;
 }
 .lead {
   margin-bottom: 20px;
@@ -3550,6 +3569,7 @@ a.list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
   color: #38a7bb;
   background-color: #ffffff;
+  
 }
 .nav-pills > li > a > .badge {
   margin-left: 3px;
