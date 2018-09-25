@@ -13,3 +13,12 @@
 	color: #777;
 	background-color: #38a7bb;
 }
+
+.span2{
+	width:150px;
+	padding-left:10px;
+}
+
+[class*="span"]{
+	float:left;
+}
