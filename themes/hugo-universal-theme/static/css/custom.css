@@ -11,7 +11,11 @@
 
 .active-link {
   color: #777;
+<<<<<<< HEAD
   border-top: solid 5px #006dcc !important;
+=======
+  background-color: #38a7bb;
+>>>>>>> ae2edd01967cad847ba1765f6fd2de83a32267b2
 }
 
 .span2 {
@@ -22,3 +26,45 @@
 [class*="span"] {
   float: left;
 }
+<<<<<<< HEAD
+=======
+
+#videos {
+  width: 1120px;
+  margin: 0 auto 50px auto;
+}
+
+@media screen and (max-width: 960px) {
+  #videos {
+    width: 520px;
+  }
+}
+
+#videos ul {
+  list-style-type: none;
+}
+
+#videos li {
+  float: left;
+  position: relative;
+  width: 500px;
+  height: 299px;
+  overflow: hidden;
+  padding: 20px;
+}
+
+#videosli: hover {
+  cursor: pointer;
+}
+
+#videos iframe {
+  width: 460px;
+  height: 259px;
+
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
+}
+>>>>>>> ae2edd01967cad847ba1765f6fd2de83a32267b2
