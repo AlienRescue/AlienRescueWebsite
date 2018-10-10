@@ -11,11 +11,8 @@
 
 .active-link {
   color: #777;
-<<<<<<< HEAD
+
   border-top: solid 5px #006dcc !important;
-=======
-  background-color: #38a7bb;
->>>>>>> ae2edd01967cad847ba1765f6fd2de83a32267b2
 }
 
 .span2 {
@@ -26,8 +23,6 @@
 [class*="span"] {
   float: left;
 }
-<<<<<<< HEAD
-=======
 
 #videos {
   width: 1120px;
@@ -67,4 +62,3 @@
   -ms-transition: all 1s ease;
   transition: all 1s ease;
 }
->>>>>>> ae2edd01967cad847ba1765f6fd2de83a32267b2
