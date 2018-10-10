@@ -1,24 +1,24 @@
 /* your styles go here */
 
 .box-image-text .image {
-	min-height: 200px;
-	max-height: 200px;
+  min-height: 200px;
+  max-height: 200px;
 }
 
 .box-simple {
-	height: fit-content;
+  height: fit-content;
 }
 
 .active-link {
-	color: #777;
-	background-color: #38a7bb;
+  color: #777;
+  border-top: solid 5px #006dcc !important;
 }
 
-.span2{
-	width:150px;
-	padding-left:10px;
+.span2 {
+  width: 150px;
+  padding-left: 10px;
 }
 
-[class*="span"]{
-	float:left;
+[class*="span"] {
+  float: left;
 }
