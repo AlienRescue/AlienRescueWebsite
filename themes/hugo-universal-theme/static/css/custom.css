@@ -1,24 +1,63 @@
 /* your styles go here */
 
 .box-image-text .image {
-	min-height: 200px;
-	max-height: 200px;
+  min-height: 200px;
+  max-height: 200px;
 }
 
 .box-simple {
-	height: fit-content;
+  height: fit-content;
 }
 
 .active-link {
-	color: #777;
-	background-color: #38a7bb;
+  color: #777;
+  background-color: #38a7bb;
 }
 
-.span2{
-	width:150px;
-	padding-left:10px;
+.span2 {
+  width: 150px;
+  padding-left: 10px;
 }
 
-[class*="span"]{
-	float:left;
+[class*="span"] {
+  float: left;
+}
+
+#videos {
+  width: 1120px;
+  margin: 0 auto 50px auto;
+}
+
+@media screen and (max-width: 960px) {
+  #videos {
+    width: 520px;
+  }
+}
+
+#videos ul {
+  list-style-type: none;
+}
+
+#videos li {
+  float: left;
+  position: relative;
+  width: 500px;
+  height: 299px;
+  overflow: hidden;
+  padding: 20px;
+}
+
+#videosli: hover {
+  cursor: pointer;
+}
+
+#videos iframe {
+  width: 460px;
+  height: 259px;
+
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
 }
