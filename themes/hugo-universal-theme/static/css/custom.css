@@ -24,6 +24,11 @@
   float: left;
 }
 
+img.special-img-class {
+  margin-right: 20px;
+  width: 180px;
+}
+
 /* #videos {
   width: 1120px;
   margin: 0 auto 50px auto;
@@ -783,7 +788,6 @@ ul.tab-list li a:hover {
 .video .link span {
   display: none;
 }
-
 
 .video-16-9 {
   padding-top: 56.25%;

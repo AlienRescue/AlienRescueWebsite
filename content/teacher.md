@@ -11,4 +11,4 @@ Schools have used and/or are using Alien Rescue:
 It is being used as part of the science curriculum by 16 middle schools in Central Texas with a diverse ethnic base. In addition, schools in at least 29 states (AZ, CA, CO, CT, FL, GA, HI, IA, IL, IN, KS, MA, MD, MI, MN, MO, MS, NC, NM, NJ, NY, OH, OR, PA, SC, TN, UT, WA, WI) and 4 countries (Australia, Canada, China, S.Korea) have used and are using Alien Rescue. <br /><br /><br /><br /><br />
 
 ![map](/img/map.png)<br /><br /><br /><br />
-![infographic](/img/info3.png)
+![infographic](/img/info.png)
