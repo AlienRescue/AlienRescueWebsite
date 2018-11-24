@@ -3,13 +3,13 @@ title = "Alien Rescue Team: Development Model & Awards"
 id = "about"
 +++
 
-Alien Rescue team consists of a group of graduate students working collaboratively under the supervision and guidance of [Dr. Min Liu](https://www.edb.utexas.edu/minliu/) and [Dr. Lucas Horton](/team) at [the University of Texas at Austin](https://www.utexas.edu). Dr. Liu directs and supervises all aspects of the project (design, development, implementation, and research) and Dr. Horton provides guidance on the design and technical aspects of the project. Harnessing students’ diverse talents and ideas is a major characteristic of the design and development process. Students’ engagement in the project is largely driven by their interests in creating a quality technology program to enhance learning while developing multimedia production and research competencies. As the program evolves from one version to another, team members’ skills also progress and reflect current industry best practices and trends. This process has provided opportunities for students to prepare for future careers as multimedia designers and developers, instructional technologists, and educational researchers. If you are interested in joining the team, please contact [Dr. Min Liu](/team).
+Alien Rescue team consists of a group of graduate students working collaboratively under the supervision and guidance of [Dr. Min Liu](https://www.edb.utexas.edu/minliu/) and [Dr. Lucas Horton](https://education.utexas.edu/about/college-offices/office-instructional-innovation/our-staff) at [the University of Texas at Austin](https://www.utexas.edu). Dr. Liu directs and supervises all aspects of the project (design, development, implementation, and research) and Dr. Horton provides guidance on the design and technical aspects of the project. Harnessing students’ diverse talents and ideas is a major characteristic of the design and development process. Students’ engagement in the project is largely driven by their interests in creating a quality technology program to enhance learning while developing multimedia production and research competencies. As the program evolves from one version to another, team members’ skills also progress and reflect current industry best practices and trends. This process has provided opportunities for students to prepare for future careers as multimedia designers and developers, instructional technologists, and educational researchers. If you are interested in joining the team, please contact [Dr. Min Liu](/team).
 
 <hr>
 
-Current team members include:
+#### Current team members include:
 
-- [Chenglu Li (Kabe)](/team)<br />
+- [Chenglu Li (Kabe)](https://education.utexas.edu/student/chenglu_li)<br />
 - [Zilong Pan (Chris)](https://education.utexas.edu/student/zilong_pan) <br />
 - [Xin Pan](https://education.utexas.edu/student/xin_pan) <br />
 - [Yi Shi](https://education.utexas.edu/student/yi_shi2)<br />
@@ -17,14 +17,15 @@ Current team members include:
 - [I-Hui Liou](https://education.utexas.edu/student/i-hui_liou) <br />
 - [Daeun Hong](https://education.utexas.edu/student/daeun_hong) <br />
 - [Lili Zhao](https://education.utexas.edu/student/lili_zhao) <br />
-- [Songhee Han](https://education.utexas.edu/student/songhee_han) <br /><br />
+- [Songhee Han](https://education.utexas.edu/student/songhee_han) <br />
+- [Ying Cai](https://education.utexas.edu/student/ying_cai)<br /><br />
 
-Former team members include:<br />
+#### Former team members include:<br /><br />
 
 V 7 Online version (Web GL version)<br />
 
 - Sa Liu (Lisa), Ph.D. 2018 <br />
-- [Wenting Zou (Ellen)](https://education.utexas.edu/student/wenting_zou) <br />
+- Wenting Zou (Ellen)<br />
 - Emily Naul, M.A. 2018<br />
 - Liuyi Shu, M.A. 2018<br />
 - Larissa Rodionov, MEd. 2018<br />
@@ -83,7 +84,7 @@ V 1.5 (CD Version)
 - Suzanne Rhodes<br />
 - Arie I. Stavchansky<br />
 
-Many graduate and undergraduate students have worked on different aspects of the program at different times. We appreciate very much their contributions.<br />
+Many graduate and undergraduate students have worked on different aspects of the program at different times. We appreciate very much their contributions. Check more info [here](/team). <br />
 
 ## History and Awards
 
