@@ -29,6 +29,12 @@ img.special-img-class {
   width: 180px;
 }
 
+.video-title {
+  text-align: center;
+  color: black;
+  margin-top: 10px;
+}
+
 /* #videos {
   width: 1120px;
   margin: 0 auto 50px auto;
