@@ -31,8 +31,9 @@ img.special-img-class {
 
 .video-title {
   text-align: center;
-  color: black;
+  color: #456;
   margin-top: 10px;
+  font-weight: 600;
 }
 
 /* #videos {
