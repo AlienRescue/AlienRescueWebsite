@@ -340,7 +340,6 @@ ul.list-style-none {
   color: white;
 }
 
-
 .page-btn {
   background: #006dcc;
   padding: 10px 50px !important;
@@ -1203,8 +1202,12 @@ fieldset[disabled] .btn-template-primary.active {
   bottom: -40%;
 }
 
+.carousel-indicators li {
+  border: 1px solid #ea6d18;
+}
+
 .carousel-indicators > li.active {
-  background-color: #e3e3e3;
+  background-color: #ea6d18;
 }
 
 .home-carousel .dark-mask {
@@ -1782,7 +1785,7 @@ fieldset[disabled] .btn-template-primary.active {
 #heading-breadcrumbs {
   background: url("../img/texture-bw.png") center center repeat;
   padding: 20px 0;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 #heading-breadcrumbs.no-mb {
   margin-bottom: 0;
@@ -3200,9 +3203,9 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 /* scaffolding */
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.42857143;
-  color: #555555;
+  color: #000000;
 }
 a {
   color: #006dcc;
