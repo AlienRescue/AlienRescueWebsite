@@ -11,6 +11,6 @@ description: >
    <p>
    Alien Rescue was developed to meet the curriculum requirements for sixth grade science.</p>
 
-   <p class="home-btn"> Learn More </p>
+   <p class="home-btn"> <a href="https://vimeo.com/186340362">Learn More </a></p>
 
 image: "img/carousel/hero.png"
