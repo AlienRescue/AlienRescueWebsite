@@ -1,5 +1,5 @@
 baseurl = "https://alienrescue.education.utexas.edu/"
-title = "Alien Rescue"
+title = "Alien Rescue - Official Site"
 theme = "hugo-universal-theme"
 themesDir = "themes"
 languageCode = "en-us"

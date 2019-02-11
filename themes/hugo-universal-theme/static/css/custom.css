@@ -1,5 +1,9 @@
 /* your styles go here */
 
+footer#footer a {
+  color: white;
+}
+
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;
