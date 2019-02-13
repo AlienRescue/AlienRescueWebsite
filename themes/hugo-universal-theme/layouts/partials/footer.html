@@ -1,29 +1,28 @@
 <footer id="footer">
-    <div class="container">
-
-        {{ if isset .Site.Params "about_us" }}
-        <div class="col-md-4 col-sm-6">
-
-              <img style="margin-right:20px;" src='https://alienrescue.edb.utexas.edu/template/img/ut.png' >
-              <img src='https://alienrescue.edb.utexas.edu/template/img/coe.png' >
-        </div>
-        <div class="col-md-4 col-sm-6">
-
-
-        </div>
-        <!-- /.col-md-4 -->
-        {{ end }}
-
-        <div class="col-md-4 col-sm-6">
-
-          <p> A project of the <a href='https://education.utexas.edu/departments/curriculum-instruction/graduate-programs/learning-technologies' target="_blank">Learning Technologies</a> program </p>
-          <p><a href='mailto:mliu@austin.utexas.edu'> Questions or Comments?</a> </p>
-          <p>©2019 The University of Texas at Austin </p>
-
-        </div>
-
+  <div class="container">
+    {{ if isset .Site.Params "about_us" }}
+    <div class="col-md-4 col-sm-6">
+      <img style="margin-right:20px;width:350px;" src="/img/coe_logo_ko.png" />
     </div>
-    <!-- /.container -->
+    <div class="col-md-4 col-sm-6"></div>
+    <!-- /.col-md-4 -->
+    {{ end }}
+
+    <div class="col-md-4 col-sm-6">
+      <p>
+        A project of the
+        <a
+          href="https://education.utexas.edu/departments/curriculum-instruction/graduate-programs/learning-technologies"
+          target="_blank"
+          >Learning Technologies</a
+        >
+        program
+      </p>
+      <p><a href="mailto:mliu@austin.utexas.edu"> Questions or Comments?</a></p>
+      <p>©2019 The University of Texas at Austin</p>
+    </div>
+  </div>
+  <!-- /.container -->
 </footer>
 
 <!-- /#footer -->
@@ -32,7 +31,6 @@
 
 <!-- *** COPYRIGHT ***
 _________________________________________________________ -->
-
 
 <!-- /#copyright -->
 
