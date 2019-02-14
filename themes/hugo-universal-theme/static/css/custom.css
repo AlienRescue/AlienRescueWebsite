@@ -1,5 +1,26 @@
 /* your styles go here */
 
+
+#info, #infotwo {
+    width:100%;
+}
+
+@media screen and (max-width: 768px) {
+    #info {
+        display: none !important;
+        
+    }
+}
+
+
+@media screen and (min-width: 769px) {
+    #infotwo {
+        display: none !important;
+    }
+}
+
+
+
 footer#footer a {
   color: white;
 }
