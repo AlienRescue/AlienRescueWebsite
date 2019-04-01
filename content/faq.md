@@ -99,5 +99,4 @@ Refer to Sample [Lesson Plans](/pdf/AlienRescueSampleLessonPlans.pdf). You can a
 
 ##### Who is using Alien Rescue?
 
-Currently, the program is being used as part of the science curriculum by 16 middle schools in Central Texas with a diverse ethnic base. In addition, schools at least 30 states (AZ, CA, CO, CT, FL, GA, HI, IA, IL, IN, KS, MA, MD, MI, MN, MO, MS, NC, NM, NJ, NY, OH, OR, PA, SC, TN, UT, VA, WA, WI) and 4 countries (Australia, Canada, China, S.Korea) have used and are using Alien Rescue.
-<br /><br />
+Currently, the program is being used as part of the science curriculum by 16 middle schools in Central Texas with a diverse ethnic base. In addition, schools in at least 29 states (AZ CA CO CT FL GA HI IA IL IN KS MA MD MI MN MO MS NC NJ NM NY OH OR PA SC TN UT WA WI) and four countries (Australia, Canada, China, South Korea) have used and are using Alien Rescue.<br /><br />
