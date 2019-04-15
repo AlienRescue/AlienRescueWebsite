@@ -74,7 +74,8 @@ Pedersen, S. & Liu, M. (2003). [Teachers' beliefs about issues in the implementa
 
 <br />
 ### Exploring Emerging Data Analytics to Better Understand Learning Processes in An Immersive Learning Environment
-Kang, J., Liu, M., Qu, W. (2017). [Using Gameplay Data to Examine Learning Behavior Patterns in a Serious Game](https://www.sciencedirect.com/science/article/pii/S0747563216306975) Computers in Human Behavior.
+Kang, J., Liu, M., Qu, W. (2017). [Using Gameplay Data to Examine Learning Behavior Patterns in a Serious Game](https://www.sciencedirect.com/science/article/pii/S0747563216306975) Computers in Human Behavior.72, 757-770. https://doi.org/10.1016/j.chb.2016.09.062
+
 
 Liu, M., Lee, J., Kang, & Liu, S. (2016). [What We Can Learn From The Data: A Multiple-Case Study Examining Behavior Patterns By Students With Different Characteristics In Using a Serious Game](https://link.springer.com/article/10.1007/s10758-015-9263-7). _The Technology, Knowledge and Learning journal_. 21(1), 33-57. 10.1007/s10758-015-9263-7
 
@@ -86,7 +87,8 @@ Liu, M., Kang, J., Lee, J, Winzeler, E., & Liu, S. (2015). [Examining through vi
 
 Kang, J. (2017). Examining Scientific Thinking Processes in Open-Ended Serious Games through Gameplay Data. Unpublished doctoral dissertation, the University of Texas at Austin, Austin, TX.
 
-Moudgalya, S. K. (2017). Problem-Based Learning Environment: Alien Rescue. Unpublished master report, the University of Texas at Austin, Austin, TX.
+Moudgalya, S. K. (2017). Problem-Based Learning Environment: Alien Rescue. Unpublished master report, the University of Texas at Austin, Austin, TX. Stamets, S. E. (2016). Game On: Redesign of a Teacher Professional Development Platform for Use with the Serious Game Alien Rescue. Unpublished master report, University of Texas at Austin, Austin, TX.
+
 Stamets, S. E. (2016). Game On: Redesign of a Teacher Professional Development Platform for Use with the Serious Game Alien Rescue. Unpublished master report, University of Texas at Austin, Austin, TX.
 
 Qiu, Y. J. (2016). 3D Modeling Tool Selection For Research-based Educational Games: An Experience. Unpublished master report, University of Texas at Austin, Austin, TX.
@@ -112,4 +114,9 @@ Williams, D. (1999). Hypermedia-supported Authentic Learning Environments (HALE)
 
 Rhodes, S. (1998). Interactivity in Computer-Based Learning Environments. Unpublished master report, University of Texas at Austin, Austin, TX.
 
+Liu, S. (2018). The Impact of Learner Metacognition and Goal Orientation on Problem-Solving in a Serious Game Environment. Unpublished doctoral dissertation, the University of Texas at Austin, Austin, TX.
+
+Li, C. (2017). Implications for Alien Rescue’s Future Enhancements through Comparisons with University-developed Educational Games.  Unpublished master report, University of Texas at Austin, Austin, TX.
 [Back to Top](/researchers)
+
+
