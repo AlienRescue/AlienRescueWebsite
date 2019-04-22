@@ -114,9 +114,10 @@ Williams, D. (1999). Hypermedia-supported Authentic Learning Environments (HALE)
 
 Rhodes, S. (1998). Interactivity in Computer-Based Learning Environments. Unpublished master report, University of Texas at Austin, Austin, TX.
 
-Liu, S. (2018). The Impact of Learner Metacognition and Goal Orientation on Problem-Solving in a Serious Game Environment. Unpublished doctoral dissertation, the University of Texas at Austin, Austin, TX.
+Liu, S. (2018).  [The Impact of Learner Metacognition and Goal Orientation on Problem-Solving in a Serious Game Environment](https://oi2.edb.utexas.edu/ltdb/dissertations/the-impact-of-learner-metacognition-and-goal-orientation-on-problem-solving-in-a-serious-game-environment/). Unpublished doctoral dissertation, the University of Texas at Austin, Austin, TX.
 
-Li, C. (2017). Implications for Alien Rescue’s Future Enhancements through Comparisons with University-developed Educational Games.  Unpublished master report, University of Texas at Austin, Austin, TX.
+Li, C. (2017). [Implications for Alien Rescue’s Future Enhancements through Comparisons with University-developed Educational Games](https://oi2.edb.utexas.edu/ltdb/dissertations/implications-for-alien-rescues-future-enhancements-through-comparisons-with-university-developed-educational-games/).  Unpublished master report, University of Texas at Austin, Austin, TX.
+
 [Back to Top](/researchers)
 
 

@@ -76,27 +76,41 @@ No. Students are supposed to not only work on computers but also participate in 
 ##### What’s the role of teachers while Alien Rescue is being used?
 
 A classroom teacher’s role in Alien Rescue is that of a facilitator. Here are some suggestions for being an effective facilitator:
-Allow students to determine what they need to know in order to develop a solution.
-Encourage students to use the resources within Alien Rescue to find the information they need.
-Ask questions designed to get students to articulate their reasons for needing particular information.
-Encourage discussion and debate among students.
-Encourage collaboration.
-Support students who are having trouble by brainstorming with them in a way they can address their difficulties.
-Lead class discussions. (In Alien Rescue, not only “work on computers” but also “class discussion” is considered to be a major component of the project.) It is teachers who lead the class discussion, sharing science facts and concepts with students and having students reflect on information and their learning.
-Are there any tips for teachers to facilitate students’ progress in understanding and solving the problem?
+
+* Allow students to determine what they need to know in order to develop a solution.
+
+* Encourage students to use the resources within Alien Rescue to find the information they need.
+
+* Ask questions designed to get students to articulate their reasons for needing particular information.
+
+* Encourage discussion and debate among students.
+
+* Encourage collaboration.
+
+* Support students who are having trouble by brainstorming with them in a way they can address their difficulties.
+
+* Lead class discussions. (In Alien Rescue, not only “work on computers” but also “class discussion” is considered to be a major component of the project.) It is teachers who lead the class discussion, sharing science facts and concepts with students and having students reflect on information and their learning.
+
+##### Are there any tips for teachers to facilitate students’ progress in understanding and solving the problem?
 Here are some tips and examples that you may want to use in your classroom:
-Although you can have students to work on Alien Rescue individually, it is a good idea for students to be in a group of two or three to solve the problem together.
-Have students post their findings on a bulletin board for sharing information.
-Hold a class discussion every day.
-For the class discussions, have a list of probing questions ready to use if necessary.
-While students are at their computers, engage them in discussion of their work with their peers, both within and across the groups.
-<br /><br />
+
+* Although you can have students to work on Alien Rescue individually, it is a good idea for students to be in a group of two or three to solve the problem together.
+
+* Have students post their findings on a bulletin board for sharing information.
+
+* Hold a class discussion every day.
+
+* For the class discussions, have a list of probing questions ready to use if necessary.
+
+* While students are at their computers, engage them in discussion of their work with their peers, both within and across the groups.
+
+<br />
 
 ##### Are there any sample lesson plans?
 
-Refer to Sample [Lesson Plans](/pdf/AlienRescueSampleLessonPlans.pdf). You can also refer to the [Teacher’s Manual](http://www.edb.utexas.edu/minliu/alienrescue/).
+Refer to Sample [Lesson Plans](/pdf/AlienRescueSampleLessonPlans.pdf). 
 <br /><br />
 
 ##### Who is using Alien Rescue?
 
-Currently, the program is being used as part of the science curriculum by 16 middle schools in Central Texas with a diverse ethnic base. In addition, schools in at least 29 states (AZ CA CO CT FL GA HI IA IL IN KS MA MD MI MN MO MS NC NJ NM NY OH OR PA SC TN UT WA WI) and four countries (Australia, Canada, China, South Korea) have used and are using Alien Rescue.<br /><br />
+Currently, the program is being used as part of the science curriculum by 16 middle schools in Central Texas with a diverse ethnic base. In addition, schools in at least 30 states (AZ CA CO CT FL GA HI IA IL IN KS MA MD MI MN MO MS NC NJ NM NY OH OR PA SC TN UT WA WI) and four countries (Australia, Canada, China, South Korea) have used and are using Alien Rescue.<br /><br />
