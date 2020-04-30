@@ -4,6 +4,10 @@ id = "team"
 
 +++
 
+<img class="special-img-class" src="/img/i-hui.jpeg" 
+alt="I-Hui Liou"
+align="left"/>I-Hui Liou is a master’s student in the Learning Technologies program at the University of Texas at Austin. She received her master’s degree in Teaching English as a Foreign Language at National Tsing Hua University in Taiwan, and taught English at secondary schools. She joined the Alien Rescue team in Nov. 2017 and started from 3D modeling with Blender and 3D printing. She was engaged in content editing and development of cognitive tools in AR. Her interests include technology integration and instructional design, UI/UX design and digital inclusion. <br /><br /><br /><br /><br />
+
 <img class="special-img-class" src="/img/LisaL.png" 
 alt="Sa Liu"
 align="left"/>Sa Liu received her Ph.D. from the dept. of Curriculum and Instruction specializing in Learning Technologies in 2018. She has a master's degree in Educational Technology and a B.S. in Computer Science. She is a big fan of all kinds of games and joined Alien Rescue project in 2013 Spring. Her current research interests include serious games and game based learning, especially on the effects of learner characteristics during the problem solving process within serious game environment. She is currently Assistant professor at Harrisburg University of Science &Technology. <br /><br /><br /><br /><br />

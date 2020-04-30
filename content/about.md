@@ -14,13 +14,17 @@ Alien Rescue team consists of a group of graduate students working collaborative
 - [Xin Pan](https://education.utexas.edu/student/xin_pan) <br />
 - [Yi Shi](https://education.utexas.edu/student/yi_shi2)<br />
 - [Mary Frances López](https://education.utexas.edu/student/mary_lopez) <br />
-- [I-Hui Liou](https://education.utexas.edu/student/i-hui_liou) <br />
 - [Daeun Hong](https://education.utexas.edu/student/daeun_hong) <br />
 - [Lili Zhao](https://education.utexas.edu/student/lili_zhao) <br />
 - [Songhee Han](https://education.utexas.edu/student/songhee_han) <br />
-- [Ying Cai](https://education.utexas.edu/student/ying_cai)<br /><br />
+- [Ying Cai](https://education.utexas.edu/student/ying_cai)<br />
+- [Peixia Shao](https://education.utexas.edu/student/peixia_shao)<br /><br />
+
 
 #### Former team members include:<br /><br />
+
+V 8 Online version (Web GL version)<br />
+- I-Hui Liou, M.A. 2019
 
 V 7 Online version (Web GL version)<br />
 
