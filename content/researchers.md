@@ -11,6 +11,10 @@ The development of Alien Rescue is guided by a Design-Based Research framework (
 
 ### Examining Cognitive and Affective Factors of An Immersive Learning Environment
 
+Liu, M., Liu, S., Pan, Z., Zou, W. & Li, C. (2019). [Examining Science Learning and Attitudes by At-Risk Students After They Used a Multimedia-Enriched Problem-Based Learning Environment] (https://docs.lib.purdue.edu/ijpbl/vol13/iss1/6/). _Interdisciplinary Journal of Problem-Based Learning_, 13(1).
+
+Lee, J. & Liu, M. (2017). Design of Fantasy and Their effect on Learning and Engagement. _Handbook of Research on Serious Games for Educational Applications_ (pp. 200–219): IGI Global.
+
 Liu, M., Horton, L., Kang, J., Kimmons, R. and Lee, J. (2016). [Making Learning Fun: An Investigation of Using a Ludic Simulation for Middle School Space Science.](https://www.igi-global.com/chapter/making-learning-fun/172366) In B. Dubbels (Ed.) _Transforming Gaming and Computer Simulation Technologies across Industries_ (pp. 130-152), Hershey, PA: IGI Global.
 
 Liu, M., Rosenblum, J., Horton, L., & Kang, J. (2014). [Designing Science Learning with Game-Based Approaches](https://www.tandfonline.com/doi/abs/10.1080/07380569.2014.879776). _Computers in the School_, 31(1/2), 84-102. DOI:10.1080.07380569.2014.879776

@@ -9,25 +9,32 @@ Alien Rescue team consists of a group of graduate students working collaborative
 
 #### Current team members include:
 
-- [Chenglu Li (Kabe)](https://education.utexas.edu/student/chenglu_li)<br />
 - [Zilong Pan (Chris)](https://education.utexas.edu/student/zilong_pan) <br />
-- [Xin Pan](https://education.utexas.edu/student/xin_pan) <br />
-- [Yi Shi](https://education.utexas.edu/student/yi_shi2)<br />
-- [Mary Frances López](https://education.utexas.edu/student/mary_lopez) <br />
-- [Daeun Hong](https://education.utexas.edu/student/daeun_hong) <br />
-- [Lili Zhao](https://education.utexas.edu/student/lili_zhao) <br />
+- [Chenglu Li (Kabe)](https://education.utexas.edu/student/chenglu_li)<br />
 - [Songhee Han](https://education.utexas.edu/student/songhee_han) <br />
 - [Ying Cai](https://education.utexas.edu/student/ying_cai)<br />
 - [Peixia Shao](https://education.utexas.edu/student/peixia_shao)<br /><br />
+- [Yi Shi](https://education.utexas.edu/student/yi_shi2)<br />
+- [Daeun Hong](https://education.utexas.edu/student/daeun_hong), M.A. 2020 <br /> 
+- Wei Zhu 
+
+
+
+
 
 
 #### Former team members include:<br /><br />
 
 V 8 Online version (Web GL version)<br />
+- [Xin Pan](https://education.utexas.edu/student/xin_pan) <br />
+- [Mary Frances López](https://education.utexas.edu/student/mary_lopez) <br />
+- [Lili Zhao](https://education.utexas.edu/student/lili_zhao), M.A. 2020 <br />
 - I-Hui Liou, M.A. 2019
 
 V 7 Online version (Web GL version)<br />
 
+- Wenting Zou (Ellen), Ph.D. 2020 <br />
+- Dongwook An (Louis), Med. 2019 <br />
 - Sa Liu (Lisa), Ph.D. 2018 <br />
 - Wenting Zou (Ellen)<br />
 - Emily Naul, M.A. 2018<br />
@@ -37,6 +44,8 @@ V 7 Online version (Web GL version)<br />
 
 V 6 Online version (Web GL version)<br />
 
+- Sukanya Moudgalya, M.A. 2017 <br />
+- Siqi Yi, M.A. 2017 <br />
 - Jina Kang, Ph.D. 2017<br />
 - Sukanya Moudgalya<br />
 - Siqi Yi<br />
