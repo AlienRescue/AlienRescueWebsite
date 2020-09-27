@@ -13,7 +13,7 @@ Alien Rescue team consists of a group of graduate students working collaborative
 - [Chenglu Li (Kabe)](https://education.utexas.edu/student/chenglu_li)<br />
 - [Songhee Han](https://education.utexas.edu/student/songhee_han) <br />
 - [Ying Cai](https://education.utexas.edu/student/ying_cai)<br />
-- [Peixia Shao](https://education.utexas.edu/student/peixia_shao)<br /><br />
+- [Peixia Shao](https://education.utexas.edu/student/peixia_shao)<br />
 - [Yi Shi](https://education.utexas.edu/student/yi_shi2)<br />
 - [Daeun Hong](https://education.utexas.edu/student/daeun_hong), M.A. 2020 <br /> 
 - Wei Zhu 
