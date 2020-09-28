@@ -26,6 +26,7 @@ Alien Rescue team consists of a group of graduate students working collaborative
 #### Former team members include:<br /><br />
 
 V 8 Online version (Web GL version)<br />
+
 - [Xin Pan](https://education.utexas.edu/student/xin_pan) <br />
 - [Mary Frances López](https://education.utexas.edu/student/mary_lopez) <br />
 - [Lili Zhao](https://education.utexas.edu/student/lili_zhao), M.A. 2020 <br />

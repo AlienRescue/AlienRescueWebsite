@@ -87,15 +87,18 @@ Liu, M., Kang, J., Lee, J, Winzeler, E., & Liu, S. (2015). [Examining through vi
 
 <br />
 
-### Dissertations & MA Reports Based on Alien Rescue
+### Dissertations Based on Alien Rescue  
 
 Kang, J. (2017). Examining Scientific Thinking Processes in Open-Ended Serious Games through Gameplay Data. Unpublished doctoral dissertation, the University of Texas at Austin, Austin, TX.
 
-Moudgalya, S. K. (2017). Problem-Based Learning Environment: Alien Rescue. Unpublished master report, the University of Texas at Austin, Austin, TX. Stamets, S. E. (2016). Game On: Redesign of a Teacher Professional Development Platform for Use with the Serious Game Alien Rescue. Unpublished master report, University of Texas at Austin, Austin, TX.
+Moudgalya, S. K. (2017). Problem-Based Learning Environment: Alien Rescue. Unpublished master report, the University of Texas at Austin, Austin, TX. 
+
+Stamets, S. E. (2016). Game On: Redesign of a Teacher Professional Development Platform for Use with the Serious Game Alien Rescue. Unpublished master report, University of Texas at Austin, Austin, TX.
 
 Stamets, S. E. (2016). Game On: Redesign of a Teacher Professional Development Platform for Use with the Serious Game Alien Rescue. Unpublished master report, University of Texas at Austin, Austin, TX.
 
 Qiu, Y. J. (2016). 3D Modeling Tool Selection For Research-based Educational Games: An Experience. Unpublished master report, University of Texas at Austin, Austin, TX.
+
 Lee, Jaejin (2015). Effects of Fantasy and Fantasy Proneness on Learning and Engagement in a 3D Educational Game. Unpublished doctoral dissertation, University of Texas at Austin, Austin, TX.
 
 Horton, L. (2014). The effects of problem-based learning scaffolds on cognitive load, problem-solving, and student performance within a multimedia enhanced learning environment, Unpublished doctoral dissertation, University of Texas at Austin, Austin, TX.
@@ -116,12 +119,14 @@ Pedersen, S. (2000). Cognitive Modeling During Problem-Based Learning: The effec
 
 Williams, D. (1999). Hypermedia-supported Authentic Learning Environments (HALE): Examination of Tools and Features Which can Support Students Learning. Unpublished doctoral dissertation, University of Texas at Austin, Austin, TX.
 
-Rhodes, S. (1998). Interactivity in Computer-Based Learning Environments. Unpublished master report, University of Texas at Austin, Austin, TX.
+<br />
+### MA Reports Based on Alien Rescue
 
 Liu, S. (2018).  [The Impact of Learner Metacognition and Goal Orientation on Problem-Solving in a Serious Game Environment](https://oi2.edb.utexas.edu/ltdb/dissertations/the-impact-of-learner-metacognition-and-goal-orientation-on-problem-solving-in-a-serious-game-environment/). Unpublished doctoral dissertation, the University of Texas at Austin, Austin, TX.
 
 Li, C. (2017). [Implications for Alien Rescue’s Future Enhancements through Comparisons with University-developed Educational Games](https://oi2.edb.utexas.edu/ltdb/dissertations/implications-for-alien-rescues-future-enhancements-through-comparisons-with-university-developed-educational-games/).  Unpublished master report, University of Texas at Austin, Austin, TX.
 
+Rhodes, S. (1998). Interactivity in Computer-Based Learning Environments. Unpublished master report, University of Texas at Austin, Austin, TX.
 [Back to Top](/researchers)
 
 
