@@ -11,6 +11,10 @@ The development of Alien Rescue is guided by a Design-Based Research framework (
 
 ### Examining Cognitive and Affective Factors of An Immersive Learning Environment
 
+Liu, M., Horton, L., Li, C. & Pan, Z. (2019). Alien Rescue. _Learning, Education, & Games: 100 Games to Use in the Classroom and Beyond_ (Vol. III, pp. 23 – 27): ETC Press (Carnegie Mellon).
+
+Liu, M., Li, C., Pan, Z. & Pan, X. (2019). [Mining big data to help make informed decisions for designing effective digital educational games.](https://www.tandfonline.com/doi/full/10.1080/10494820.2019.1639061) _Interactive Learning Environments._
+
 Liu, M., Horton, L., Kang, J., Kimmons, R. and Lee, J. (2016). [Making Learning Fun: An Investigation of Using a Ludic Simulation for Middle School Space Science.](https://www.igi-global.com/chapter/making-learning-fun/172366) In B. Dubbels (Ed.) _Transforming Gaming and Computer Simulation Technologies across Industries_ (pp. 130-152), Hershey, PA: IGI Global.
 
 Liu, M., Rosenblum, J., Horton, L., & Kang, J. (2014). [Designing Science Learning with Game-Based Approaches](https://www.tandfonline.com/doi/abs/10.1080/07380569.2014.879776). _Computers in the School_, 31(1/2), 84-102. DOI:10.1080.07380569.2014.879776
