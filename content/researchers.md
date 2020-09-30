@@ -11,9 +11,15 @@ The development of Alien Rescue is guided by a Design-Based Research framework (
 
 ### Examining Cognitive and Affective Factors of An Immersive Learning Environment
 
+
 Liu, M., Horton, L., Li, C. & Pan, Z. (2019). Alien Rescue. _Learning, Education, & Games: 100 Games to Use in the Classroom and Beyond_ (Vol. III, pp. 23 – 27): ETC Press (Carnegie Mellon).
 
 Liu, M., Li, C., Pan, Z. & Pan, X. (2019). [Mining big data to help make informed decisions for designing effective digital educational games.](https://www.tandfonline.com/doi/full/10.1080/10494820.2019.1639061) _Interactive Learning Environments._
+
+Liu, M., Liu, S., Pan, Z., Zou, W. & Li, C. (2019). [Examining Science Learning and Attitudes by At-Risk Students After They Used a Multimedia-Enriched Problem-Based Learning Environment] (https://docs.lib.purdue.edu/ijpbl/vol13/iss1/6/). _Interdisciplinary Journal of Problem-Based Learning_, 13(1).
+
+Lee, J. & Liu, M. (2017). Design of Fantasy and Their effect on Learning and Engagement. _Handbook of Research on Serious Games for Educational Applications_ (pp. 200–219): IGI Global.
+
 
 Liu, M., Horton, L., Kang, J., Kimmons, R. and Lee, J. (2016). [Making Learning Fun: An Investigation of Using a Ludic Simulation for Middle School Space Science.](https://www.igi-global.com/chapter/making-learning-fun/172366) In B. Dubbels (Ed.) _Transforming Gaming and Computer Simulation Technologies across Industries_ (pp. 130-152), Hershey, PA: IGI Global.
 
@@ -78,7 +84,8 @@ Pedersen, S. & Liu, M. (2003). [Teachers' beliefs about issues in the implementa
 
 <br />
 ### Exploring Emerging Data Analytics to Better Understand Learning Processes in An Immersive Learning Environment
-Kang, J., Liu, M., Qu, W. (2017). [Using Gameplay Data to Examine Learning Behavior Patterns in a Serious Game](https://www.sciencedirect.com/science/article/pii/S0747563216306975) Computers in Human Behavior.
+Kang, J., Liu, M., Qu, W. (2017). [Using Gameplay Data to Examine Learning Behavior Patterns in a Serious Game](https://www.sciencedirect.com/science/article/pii/S0747563216306975) Computers in Human Behavior.72, 757-770. https://doi.org/10.1016/j.chb.2016.09.062
+
 
 Liu, M., Lee, J., Kang, & Liu, S. (2016). [What We Can Learn From The Data: A Multiple-Case Study Examining Behavior Patterns By Students With Different Characteristics In Using a Serious Game](https://link.springer.com/article/10.1007/s10758-015-9263-7). _The Technology, Knowledge and Learning journal_. 21(1), 33-57. 10.1007/s10758-015-9263-7
 
@@ -86,14 +93,18 @@ Liu, M., Kang, J., Lee, J, Winzeler, E., & Liu, S. (2015). [Examining through vi
 
 <br />
 
-### Dissertations & MA Reports Based on Alien Rescue
+### Dissertations Based on Alien Rescue  
 
 Kang, J. (2017). Examining Scientific Thinking Processes in Open-Ended Serious Games through Gameplay Data. Unpublished doctoral dissertation, the University of Texas at Austin, Austin, TX.
 
-Moudgalya, S. K. (2017). Problem-Based Learning Environment: Alien Rescue. Unpublished master report, the University of Texas at Austin, Austin, TX.
+Moudgalya, S. K. (2017). Problem-Based Learning Environment: Alien Rescue. Unpublished master report, the University of Texas at Austin, Austin, TX. 
+
+Stamets, S. E. (2016). Game On: Redesign of a Teacher Professional Development Platform for Use with the Serious Game Alien Rescue. Unpublished master report, University of Texas at Austin, Austin, TX.
+
 Stamets, S. E. (2016). Game On: Redesign of a Teacher Professional Development Platform for Use with the Serious Game Alien Rescue. Unpublished master report, University of Texas at Austin, Austin, TX.
 
 Qiu, Y. J. (2016). 3D Modeling Tool Selection For Research-based Educational Games: An Experience. Unpublished master report, University of Texas at Austin, Austin, TX.
+
 Lee, Jaejin (2015). Effects of Fantasy and Fantasy Proneness on Learning and Engagement in a 3D Educational Game. Unpublished doctoral dissertation, University of Texas at Austin, Austin, TX.
 
 Horton, L. (2014). The effects of problem-based learning scaffolds on cognitive load, problem-solving, and student performance within a multimedia enhanced learning environment, Unpublished doctoral dissertation, University of Texas at Austin, Austin, TX.
@@ -114,6 +125,14 @@ Pedersen, S. (2000). Cognitive Modeling During Problem-Based Learning: The effec
 
 Williams, D. (1999). Hypermedia-supported Authentic Learning Environments (HALE): Examination of Tools and Features Which can Support Students Learning. Unpublished doctoral dissertation, University of Texas at Austin, Austin, TX.
 
-Rhodes, S. (1998). Interactivity in Computer-Based Learning Environments. Unpublished master report, University of Texas at Austin, Austin, TX.
+<br />
+### MA Reports Based on Alien Rescue
 
+Liu, S. (2018).  [The Impact of Learner Metacognition and Goal Orientation on Problem-Solving in a Serious Game Environment](https://oi2.edb.utexas.edu/ltdb/dissertations/the-impact-of-learner-metacognition-and-goal-orientation-on-problem-solving-in-a-serious-game-environment/). Unpublished doctoral dissertation, the University of Texas at Austin, Austin, TX.
+
+Li, C. (2017). [Implications for Alien Rescue’s Future Enhancements through Comparisons with University-developed Educational Games](https://oi2.edb.utexas.edu/ltdb/dissertations/implications-for-alien-rescues-future-enhancements-through-comparisons-with-university-developed-educational-games/).  Unpublished master report, University of Texas at Austin, Austin, TX.
+
+Rhodes, S. (1998). Interactivity in Computer-Based Learning Environments. Unpublished master report, University of Texas at Austin, Austin, TX.
 [Back to Top](/researchers)
+
+
