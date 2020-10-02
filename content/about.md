@@ -49,7 +49,6 @@ V 6 Online version (Web GL version)<br />
 - Siqi Yi, M.A. 2017 <br />
 - Jina Kang, Ph.D. 2017<br />
 - Sukanya Moudgalya<br />
-- Siqi Yi<br />
 - Hyeyeon Lee<br />
 
 V 5 Online version (Web GL version)<br />
