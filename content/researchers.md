@@ -11,11 +11,6 @@ The development of Alien Rescue is guided by a Design-Based Research framework (
 
 ### Examining Cognitive and Affective Factors of An Immersive Learning Environment
 
-
-Liu, M., Horton, L., Li, C. & Pan, Z. (2019). Alien Rescue. _Learning, Education, & Games: 100 Games to Use in the Classroom and Beyond_ (Vol. III, pp. 23 – 27): ETC Press (Carnegie Mellon).
-
-Liu, M., Li, C., Pan, Z. & Pan, X. (2019). [Mining big data to help make informed decisions for designing effective digital educational games.](https://www.tandfonline.com/doi/full/10.1080/10494820.2019.1639061) _Interactive Learning Environments._
-
 Liu, M., Liu, S., Pan, Z., Zou, W. & Li, C. (2019). [Examining Science Learning and Attitudes by At-Risk Students After They Used a Multimedia-Enriched Problem-Based Learning Environment] (https://docs.lib.purdue.edu/ijpbl/vol13/iss1/6/). _Interdisciplinary Journal of Problem-Based Learning_, 13(1).
 
 Lee, J. & Liu, M. (2017). Design of Fantasy and Their effect on Learning and Engagement. _Handbook of Research on Serious Games for Educational Applications_ (pp. 200–219): IGI Global.
@@ -70,6 +65,8 @@ Pedersen, S. & Liu, M. (2002). [The effects of modeling expert cognitive strateg
 
 <br />
 ### Overall Design of An Immersive Learning Environment
+Liu, M., Horton, L., Li, C. & Pan, Z. (2019). Alien Rescue. _Learning, Education, & Games: 100 Games to Use in the Classroom and Beyond_ (Vol. III, pp. 23 – 27): ETC Press (Carnegie Mellon).
+
 Liu, M., Horton, L., Lee, J., Kang, J., Rosenblum, J., O’Hair, M. & Lu, C. W. (2014). [Creating a Multimedia Enhanced Problem-Based Learning Environment for Middle School Science: Voices from the Developers](https://docs.lib.purdue.edu/ijpbl/vol8/iss1/4/). *Interdisciplinary Journal of Problem-Based Learning*, 8(1). Available at: http://dx.doi.org/10.7771/1541-5015.1422
 
 Liu, M, Williams, D., & Pedersen, S. (2002). [Alien Rescue: A Problem-Based Hypermedia Learning Environment for Middle School Science](http://journals.sagepub.com/doi/abs/10.2190/X531-D6KE-NXVY-N6RE?journalCode=etsa). Journal of Educational Technology Systems, 30(3), 255-270.
@@ -84,6 +81,8 @@ Pedersen, S. & Liu, M. (2003). [Teachers' beliefs about issues in the implementa
 
 <br />
 ### Exploring Emerging Data Analytics to Better Understand Learning Processes in An Immersive Learning Environment
+Liu, M., Li, C., Pan, Z. & Pan, X. (2019). [Mining big data to help make informed decisions for designing effective digital educational games.](https://www.tandfonline.com/doi/full/10.1080/10494820.2019.1639061) _Interactive Learning Environments._
+
 Kang, J., Liu, M., Qu, W. (2017). [Using Gameplay Data to Examine Learning Behavior Patterns in a Serious Game](https://www.sciencedirect.com/science/article/pii/S0747563216306975) Computers in Human Behavior.72, 757-770. https://doi.org/10.1016/j.chb.2016.09.062
 
 
