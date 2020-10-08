@@ -35,13 +35,11 @@ V 8 Online version (Web GL version)<br />
 V 7 Online version (Web GL version)<br />
 
 - Wenting Zou (Ellen), Ph.D. 2020 <br />
-- Dongwook An (Louis), Med. 2019 <br />
 - Sa Liu (Lisa), Ph.D. 2018 <br />
-- Wenting Zou (Ellen)<br />
 - Emily Naul, M.A. 2018<br />
 - Liuyi Shu, M.A. 2018<br />
 - Larissa Rodionov, MEd. 2018<br />
-- Dongwook An (Louis)<br />
+- Dongwook An (Louis), Med. 2019 <br />
 
 V 6 Online version (Web GL version)<br />
 
