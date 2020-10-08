@@ -75,6 +75,8 @@ Pedersen, S., Liu, M. & Williams, D. (2002). [Alien Rescue: Designing for Studen
 
 <br />
 ### Facilitating Teachers’ Use of Learner-Centered Learning Environments
+Liu, M. Shi, Y. Pan, Z., Li, C., Pan, X., & Lopez,M. F. (2020). Examining middle school teachers’ implementation of a technology-enriched problem-based learning program: Motivational factors, challenges, and strategies. _Journal of Research on Technology in Education._ Available at: [https://doi.org/10.1080/15391523.2020.1768183](https://doi.org/10.1080/15391523.2020.1768183)
+
 Liu, M., Wivagg, J. Geurtz, R., Lee, S. T. & Chang. M. (2012). [Examining How Middle School Science Teachers Implement A Technology Enriched Problem-Based Learning Environment](https://docs.lib.purdue.edu/ijpbl/vol6/iss2/3/). *Interdisciplinary Journal of Problem-Based Learning*. 6(2), 46-84. Available at: http://dx.doi.org/10.7771/1541-5015.1348
 
 Pedersen, S. & Liu, M. (2003). [Teachers' beliefs about issues in the implementation of a student-centered learning environment](https://link.springer.com/article/10.1007/BF02504526). _Educational Technology Research and Development_. 51(2), 57-76.
@@ -93,6 +95,8 @@ Liu, M., Kang, J., Lee, J, Winzeler, E., & Liu, S. (2015). [Examining through vi
 <br />
 
 ### Dissertations Based on Alien Rescue  
+
+Liu, S. (2018). [The Impact of Learner Metacognition and Goal Orientation on Problem-Solving in a Serious Game Environment.](https://oi2.edb.utexas.edu/ltdb/dissertations/the-impact-of-learner-metacognition-and-goal-orientation-on-problem-solving-in-a-serious-game-environment/) Unpublished doctoral dissertation, the University of Texas at Austin, Austin, TX.
 
 Kang, J. (2017). Examining Scientific Thinking Processes in Open-Ended Serious Games through Gameplay Data. Unpublished doctoral dissertation, the University of Texas at Austin, Austin, TX.
 
@@ -129,7 +133,17 @@ Williams, D. (1999). Hypermedia-supported Authentic Learning Environments (HALE)
 
 Liu, S. (2018).  [The Impact of Learner Metacognition and Goal Orientation on Problem-Solving in a Serious Game Environment](https://oi2.edb.utexas.edu/ltdb/dissertations/the-impact-of-learner-metacognition-and-goal-orientation-on-problem-solving-in-a-serious-game-environment/). Unpublished doctoral dissertation, the University of Texas at Austin, Austin, TX.
 
+Moudgalya, S. K. (2017). Problem-Based Learning Environment: Alien Rescue. Unpublished master report, the University of Texas at Austin, Austin, TX.
+
 Li, C. (2017). [Implications for Alien Rescue’s Future Enhancements through Comparisons with University-developed Educational Games](https://oi2.edb.utexas.edu/ltdb/dissertations/implications-for-alien-rescues-future-enhancements-through-comparisons-with-university-developed-educational-games/).  Unpublished master report, University of Texas at Austin, Austin, TX.
+
+Stamets, S. E. (2016). Game On: Redesign of a Teacher Professional Development Platform for Use with the Serious Game Alien Rescue. Unpublished master report, University of Texas at Austin, Austin, TX.
+
+Qiu, Y. J. (2016). 3D Modeling Tool Selection For Research-based Educational Games: An Experience. Unpublished master report, University of Texas at Austin, Austin, TX.
+
+Smith, A. (2008). Using a Hypermedia Problem-Based Learning Tool in an Informal Learning Environment: Challenges and Lessons Learned, Unpublished master report, University of Texas at Austin, Austin, TX.
+
+Bogard, T. (2005). Advanced Learners’ Use of Cognitive Tools in a Hypermedia Problem Based Learning Environment: A Case Study, Unpublished master report, University of Texas at Austin, Austin, TX.
 
 Rhodes, S. (1998). Interactivity in Computer-Based Learning Environments. Unpublished master report, University of Texas at Austin, Austin, TX.
 [Back to Top](/researchers)
