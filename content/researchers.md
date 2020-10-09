@@ -146,6 +146,8 @@ Smith, A. (2008). Using a Hypermedia Problem-Based Learning Tool in an Informal 
 Bogard, T. (2005). Advanced Learners’ Use of Cognitive Tools in a Hypermedia Problem Based Learning Environment: A Case Study, Unpublished master report, University of Texas at Austin, Austin, TX.
 
 Rhodes, S. (1998). Interactivity in Computer-Based Learning Environments. Unpublished master report, University of Texas at Austin, Austin, TX.
+
+<br />
 [Back to Top](/researchers)
 
 
