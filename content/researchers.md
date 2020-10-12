@@ -100,23 +100,11 @@ Liu, S. (2018). [The Impact of Learner Metacognition and Goal Orientation on Pro
 
 Kang, J. (2017). Examining Scientific Thinking Processes in Open-Ended Serious Games through Gameplay Data. Unpublished doctoral dissertation, the University of Texas at Austin, Austin, TX.
 
-Moudgalya, S. K. (2017). Problem-Based Learning Environment: Alien Rescue. Unpublished master report, the University of Texas at Austin, Austin, TX. 
-
-Stamets, S. E. (2016). Game On: Redesign of a Teacher Professional Development Platform for Use with the Serious Game Alien Rescue. Unpublished master report, University of Texas at Austin, Austin, TX.
-
-Stamets, S. E. (2016). Game On: Redesign of a Teacher Professional Development Platform for Use with the Serious Game Alien Rescue. Unpublished master report, University of Texas at Austin, Austin, TX.
-
-Qiu, Y. J. (2016). 3D Modeling Tool Selection For Research-based Educational Games: An Experience. Unpublished master report, University of Texas at Austin, Austin, TX.
-
 Lee, Jaejin (2015). Effects of Fantasy and Fantasy Proneness on Learning and Engagement in a 3D Educational Game. Unpublished doctoral dissertation, University of Texas at Austin, Austin, TX.
 
 Horton, L. (2014). The effects of problem-based learning scaffolds on cognitive load, problem-solving, and student performance within a multimedia enhanced learning environment, Unpublished doctoral dissertation, University of Texas at Austin, Austin, TX.
 
 Toprac, P. (2008). The Effects of a Problem Based Learning Digital Game on Continuing Motivation in Learning Science. Unpublished doctoral dissertation, University of Texas at Austin, Austin, TX.
-
-Smith, A. (2008). Using a Hypermedia Problem-Based Learning Tool in an Informal Learning Environment: Challenges and Lessons Learned, Unpublished master report, University of Texas at Austin, Austin, TX.
-
-Bogard, T. (2005). Advanced Learners’ Use of Cognitive Tools in a Hypermedia Problem Based Learning Environment: A Case Study, Unpublished master report, University of Texas at Austin, Austin, TX.
 
 Li, R. (2005). The Effects of Databases as Cognitive Tools in a Multimedia Problem Based Learning Environment. Unpublished doctoral dissertation, University of Texas at Austin, Austin, TX.
 
@@ -130,8 +118,6 @@ Williams, D. (1999). Hypermedia-supported Authentic Learning Environments (HALE)
 
 <br />
 ### MA Reports Based on Alien Rescue
-
-Liu, S. (2018).  [The Impact of Learner Metacognition and Goal Orientation on Problem-Solving in a Serious Game Environment](https://oi2.edb.utexas.edu/ltdb/dissertations/the-impact-of-learner-metacognition-and-goal-orientation-on-problem-solving-in-a-serious-game-environment/). Unpublished doctoral dissertation, the University of Texas at Austin, Austin, TX.
 
 Moudgalya, S. K. (2017). Problem-Based Learning Environment: Alien Rescue. Unpublished master report, the University of Texas at Austin, Austin, TX.
 
